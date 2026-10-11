@@ -1,0 +1,11 @@
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicySearchService.Test\bin\Debug\net8.0\PolicySearchService.Test.deps.json
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicySearchService.Test\bin\Debug\net8.0\PolicySearchService.Test.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicySearchService.Test\bin\Debug\net8.0\PolicySearchService.Test.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicySearchService.Test\obj\Debug\net8.0\PolicySearchService.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicySearchService.Test\obj\Debug\net8.0\PolicySearchService.Test.AssemblyInfoInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicySearchService.Test\obj\Debug\net8.0\PolicySearchService.Test.AssemblyInfo.cs
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicySearchService.Test\obj\Debug\net8.0\PolicySearchService.Test.csproj.CoreCompileInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicySearchService.Test\obj\Debug\net8.0\PolicySearchService.Test.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicySearchService.Test\obj\Debug\net8.0\refint\PolicySearchService.Test.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicySearchService.Test\obj\Debug\net8.0\PolicySearchService.Test.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicySearchService.Test\obj\Debug\net8.0\ref\PolicySearchService.Test.dll

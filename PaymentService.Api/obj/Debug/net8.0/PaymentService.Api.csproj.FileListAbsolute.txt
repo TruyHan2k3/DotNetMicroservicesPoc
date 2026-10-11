@@ -1,0 +1,11 @@
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PaymentService.Api\bin\Debug\net8.0\PaymentService.Api.deps.json
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PaymentService.Api\bin\Debug\net8.0\PaymentService.Api.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PaymentService.Api\bin\Debug\net8.0\PaymentService.Api.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.AssemblyInfoInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.AssemblyInfo.cs
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.csproj.CoreCompileInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PaymentService.Api\obj\Debug\net8.0\refint\PaymentService.Api.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PaymentService.Api\obj\Debug\net8.0\ref\PaymentService.Api.dll

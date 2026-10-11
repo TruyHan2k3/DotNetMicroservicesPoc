@@ -1,0 +1,12 @@
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\AuthService\bin\Debug\net8.0\AuthService.deps.json
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\AuthService\bin\Debug\net8.0\AuthService.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\AuthService\bin\Debug\net8.0\AuthService.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\AuthService\obj\Debug\net8.0\AuthService.csproj.AssemblyReference.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\AuthService\obj\Debug\net8.0\AuthService.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\AuthService\obj\Debug\net8.0\AuthService.AssemblyInfoInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\AuthService\obj\Debug\net8.0\AuthService.AssemblyInfo.cs
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\AuthService\obj\Debug\net8.0\AuthService.csproj.CoreCompileInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\AuthService\obj\Debug\net8.0\AuthService.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\AuthService\obj\Debug\net8.0\refint\AuthService.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\AuthService\obj\Debug\net8.0\AuthService.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\AuthService\obj\Debug\net8.0\ref\AuthService.dll

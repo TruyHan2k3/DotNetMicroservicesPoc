@@ -1,0 +1,11 @@
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicyService.Test\bin\Debug\net8.0\PolicyService.Test.deps.json
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicyService.Test\bin\Debug\net8.0\PolicyService.Test.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicyService.Test\bin\Debug\net8.0\PolicyService.Test.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.AssemblyInfoInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.AssemblyInfo.cs
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.csproj.CoreCompileInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicyService.Test\obj\Debug\net8.0\refint\PolicyService.Test.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PolicyService.Test\obj\Debug\net8.0\ref\PolicyService.Test.dll

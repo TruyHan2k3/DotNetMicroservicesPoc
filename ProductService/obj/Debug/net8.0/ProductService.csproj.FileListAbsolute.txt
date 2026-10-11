@@ -1,0 +1,11 @@
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ProductService\bin\Debug\net8.0\ProductService.deps.json
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ProductService\bin\Debug\net8.0\ProductService.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ProductService\bin\Debug\net8.0\ProductService.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ProductService\obj\Debug\net8.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfoInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfo.cs
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ProductService\obj\Debug\net8.0\ProductService.csproj.CoreCompileInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ProductService\obj\Debug\net8.0\ProductService.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ProductService\obj\Debug\net8.0\refint\ProductService.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ProductService\obj\Debug\net8.0\ProductService.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ProductService\obj\Debug\net8.0\ref\ProductService.dll

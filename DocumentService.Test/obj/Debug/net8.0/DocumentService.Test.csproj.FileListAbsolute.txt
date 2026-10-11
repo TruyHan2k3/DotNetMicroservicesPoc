@@ -1,0 +1,11 @@
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Test\bin\Debug\net8.0\DocumentService.Test.deps.json
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Test\bin\Debug\net8.0\DocumentService.Test.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Test\bin\Debug\net8.0\DocumentService.Test.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Test\obj\Debug\net8.0\DocumentService.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Test\obj\Debug\net8.0\DocumentService.Test.AssemblyInfoInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Test\obj\Debug\net8.0\DocumentService.Test.AssemblyInfo.cs
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Test\obj\Debug\net8.0\DocumentService.Test.csproj.CoreCompileInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Test\obj\Debug\net8.0\DocumentService.Test.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Test\obj\Debug\net8.0\refint\DocumentService.Test.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Test\obj\Debug\net8.0\DocumentService.Test.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Test\obj\Debug\net8.0\ref\DocumentService.Test.dll

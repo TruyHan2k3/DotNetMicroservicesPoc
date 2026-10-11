@@ -1,0 +1,11 @@
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PricingService\bin\Debug\net8.0\PricingService.deps.json
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PricingService\bin\Debug\net8.0\PricingService.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PricingService\bin\Debug\net8.0\PricingService.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PricingService\obj\Debug\net8.0\PricingService.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PricingService\obj\Debug\net8.0\PricingService.AssemblyInfoInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PricingService\obj\Debug\net8.0\PricingService.AssemblyInfo.cs
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PricingService\obj\Debug\net8.0\PricingService.csproj.CoreCompileInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PricingService\obj\Debug\net8.0\PricingService.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PricingService\obj\Debug\net8.0\refint\PricingService.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PricingService\obj\Debug\net8.0\PricingService.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\PricingService\obj\Debug\net8.0\ref\PricingService.dll

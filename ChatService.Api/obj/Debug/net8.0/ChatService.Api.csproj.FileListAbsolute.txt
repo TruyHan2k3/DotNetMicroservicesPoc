@@ -1,0 +1,11 @@
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ChatService.Api\bin\Debug\net8.0\ChatService.Api.deps.json
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ChatService.Api\bin\Debug\net8.0\ChatService.Api.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ChatService.Api\bin\Debug\net8.0\ChatService.Api.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ChatService.Api\obj\Debug\net8.0\ChatService.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ChatService.Api\obj\Debug\net8.0\ChatService.Api.AssemblyInfoInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ChatService.Api\obj\Debug\net8.0\ChatService.Api.AssemblyInfo.cs
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ChatService.Api\obj\Debug\net8.0\ChatService.Api.csproj.CoreCompileInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ChatService.Api\obj\Debug\net8.0\ChatService.Api.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ChatService.Api\obj\Debug\net8.0\refint\ChatService.Api.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ChatService.Api\obj\Debug\net8.0\ChatService.Api.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\ChatService.Api\obj\Debug\net8.0\ref\ChatService.Api.dll

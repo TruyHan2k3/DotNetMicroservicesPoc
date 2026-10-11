@@ -1,0 +1,11 @@
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Api\bin\Debug\net8.0\DocumentService.Api.deps.json
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Api\bin\Debug\net8.0\DocumentService.Api.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Api\bin\Debug\net8.0\DocumentService.Api.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Api\obj\Debug\net8.0\DocumentService.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Api\obj\Debug\net8.0\DocumentService.Api.AssemblyInfoInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Api\obj\Debug\net8.0\DocumentService.Api.AssemblyInfo.cs
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Api\obj\Debug\net8.0\DocumentService.Api.csproj.CoreCompileInputs.cache
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Api\obj\Debug\net8.0\DocumentService.Api.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Api\obj\Debug\net8.0\refint\DocumentService.Api.dll
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Api\obj\Debug\net8.0\DocumentService.Api.pdb
+D:\TranNgocHuy_22280201e0046\DotNetMicroservicesPoc\DocumentService.Api\obj\Debug\net8.0\ref\DocumentService.Api.dll
